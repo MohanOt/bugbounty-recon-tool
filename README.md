@@ -1,4 +1,5 @@
 # Automated Bug Bounty Recon Tool
+![script](recon.png)
 
 ## Overview
 
