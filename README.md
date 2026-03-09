@@ -16,7 +16,6 @@ This project demonstrates how common offensive security tools can be integrated 
 ---
 
 ## Objectives
-
 The main objective of this project is to demonstrate practical offensive cybersecurity skills by automating a reconnaissance pipeline commonly used in bug bounty programs and security assessments.
 
 Key goals include:
@@ -29,7 +28,6 @@ Key goals include:
 ---
 
 ## Features
-
 - Automated subdomain discovery
 - Live host detection
 - Vulnerability scanning
@@ -41,7 +39,6 @@ Key goals include:
 ---
 
 ## Tools and Technologies Used
-
 This project integrates several well-known offensive security tools and technologies:
 
 - Python – scripting and automation
@@ -56,7 +53,6 @@ These tools are widely used in the cybersecurity industry during reconnaissance 
 ---
 
 ## Project Structure
-
 bugbounty-recon-tool
 │
 ├── scripts
